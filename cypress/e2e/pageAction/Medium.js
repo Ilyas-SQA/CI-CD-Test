@@ -12,6 +12,7 @@ class Medium {
         cy.wait(2000)
         cy.xpath(CreateOne).click()
         cy.wait(2000)
+        cy.wait(2000)
 
 
     }
