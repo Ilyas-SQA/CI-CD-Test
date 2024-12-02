@@ -1,4 +1,3 @@
-
 const SignIn = '//a[text() = "Sign in"]'
 const CreateOne = '//b[text() = "Create one"]'
 
